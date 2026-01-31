@@ -1,0 +1,38 @@
+# Python
+_pycache_/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# TensorFlow / Models
+checkpoint/
+*.h5
+.ckpt
+*.pb
+app/models/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Training outputs
+*.png
+*.jpg
+*.jpeg
+
+# Logs
+*.log
