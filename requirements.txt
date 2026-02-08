@@ -1,5 +1,4 @@
-# This file used to create an environment using:
-# $ conda create --name <env> --file <this file>
+
 # platform: win-64
 
 tensorflow>=2.15.0
